@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Apperance",
+        "description": "Make Ziar'App Yours",
+        "tileColor": "0xffdaa6e5",
+        "leadingName": "android",
+        "hasSwitch": false
+     },
+     {
+        "title": "Privacy",
+        "description": "Lock Ziar'App to improve your privacy",
+        "tileColor": "0xffc5dbe9",
+        "leadingName": "privacy",
+        "hasSwitch": false
+     },{
+        "title": "Dark mode",
+        "description": "Automatic",
+        "tileColor": "0xffe19093",
+        "leadingName": "dark_mode",
+        "hasSwitch": true
+     },
+     {
+        "title": "About",
+        "description": "Lern more about Ziar'App",
+        "tileColor": "0xfff1eefa",
+        "leadingName": "more",
+        "hasSwitch": false
+     },
+     {
+        "title": "Send feedback",
+        "description": "Let us know how we can make Ziar'sApp",
+        "tileColor": "0xffa9a9a9",
+        "leadingName": "feedback", 
+        "hasSwitch": false
+     }
+     
+]
